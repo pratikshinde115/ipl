@@ -13,3 +13,8 @@ create an environment and install dependency - $ pip install -r requirements.txt
 to run project (make sure your environment is activated and dependency are installed )
 
 $ pyton app.py
+
+
+
+deployment-
+  https://first-inning-score-predictions.herokuapp.com/
