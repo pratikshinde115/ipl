@@ -12,7 +12,7 @@ regressor = pickle.load(open(filename, 'rb'))
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'ljadfnjbf'
+app.config['SECRET_KEY'] = ''
 
 @app.route('/')
 def home():
